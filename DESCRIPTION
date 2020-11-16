@@ -1,16 +1,14 @@
-Package: BuildABiocWorkshop2020
-Title: Bioconductor Workshop Template and Github Actions
-Version: 0.1.1
+Package: BiocAnVILProj
+Title: Prototype management pages for Bioconductor contributions to AnVIL
+Version: 0.0.1
 Authors@R: 
-    person(given = "Sean",
-           family = "Davis",
+    person(given = "Vince",
+           family = "Carey",
            role = c("aut", "cre"),
-           email = "seandavi@gmail.com",
+           email = "stvjc@channing.harvard.edu",
            comment = c(ORCID = "your-orc-id-here"))
-Description: This package serves as a template for using github actions to 
-    prepare a Bioconductor Workshop package for use. In particular,
-    a pkgdown website and docker image are generated based on workflow 
-    settings. 
+Description: This package is an attempt to organize content on Bioconductor's
+    work on AnVIL to simplify production and consumption.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -22,7 +20,7 @@ Suggests:
     knitr,
     rmarkdown,
     pkgdown
-URL: https://seandavi.github.io/BuildABiocWorkshop2020/
-BugReports: https://github.com/seandavi/BuildABiocWorkshop2020/issues/new/choose
+URL: https://vjcitn.github.io/BiocAnVILProj/
+BugReports: https://github.com/vjcitn/BiocAnVILProj/issues/new/choose
 VignetteBuilder: knitr
-DockerImage: seandavi/buildabiocworkshop2020:latest
+DockerImage: vjcitn/BiocAnVILProj:latest
