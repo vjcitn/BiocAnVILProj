@@ -13,4 +13,12 @@ output:
 
 # Introduction
 
-Testing
+[AnVIL](https://anvilproject.org) refers to NHGRI's cloud computing platform.  It is
+built upon Broad Institute's [terra](https://app.terra.bio), which is built
+on Google Cloud Platform.
+
+Investigators contributing to the design and deployment of AnVIL are located at
+various institutions.  The Bioconductor-oriented component of the development group
+come from Roswell Park Comprehensive Cancer Center, Harvard Medical School, and
+City University of New York.  This site presents material on the current
+productions and plans of this group.

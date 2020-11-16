@@ -1,6 +1,6 @@
 Package: BiocAnVILProj
 Title: Prototype management pages for Bioconductor contributions to AnVIL
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     person(given = "Vince",
            family = "Carey",
