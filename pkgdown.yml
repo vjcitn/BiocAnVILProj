@@ -3,7 +3,7 @@ pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   biocanvil: biocanvil.html
-last_built: 2020-11-16T01:00Z
+last_built: 2020-11-16T02:49Z
 urls:
   reference: https://vjcitn.github.io/biocanvilproj/reference
   article: https://vjcitn.github.io/biocanvilproj/articles
