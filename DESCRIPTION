@@ -6,7 +6,7 @@ Authors@R:
            family = "Carey",
            role = c("aut", "cre"),
            email = "stvjc@channing.harvard.edu",
-           comment = c(ORCID = "your-orc-id-here"))
+           comment = c(ORCID = "0000-0003-4046-0063"))
 Description: This package is an attempt to organize content on Bioconductor's
     work on AnVIL to simplify production and consumption.
 License: MIT + file LICENSE
